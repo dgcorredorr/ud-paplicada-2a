@@ -12,7 +12,9 @@ Realice una aplicación en entorno gráfico (GUI) que calcule el valor de una re
 
 Pantalla de bienvenida (Fig. 1), la cuál consta de un `JButton`, y dos `JLabel`, en los cuales se encuentran contenidas las imágenes del fondo, y de la palabra ”BIENVENIDO”. 
 
-Después de presionar el `JButton` ”CONTINUAR”, se muestra un contenedor dentro del mismo `JFrame`, ´este contenedor, o Container, contiene un conjunto de `JButton` y `JLabel`, y un `JComboBox`, los cuáles le dan funcionalidad al programa. El usuario al presionar cada `JButton` con forma de flecha, cambia los colores de cada banda dentro de la resistencia dibujada en pantalla mediante el uso de `JLabel` e imágenes.
+Después de presionar el `JButton` ”CONTINUAR”, se muestra un contenedor dentro del mismo `JFrame`, éste contenedor, o Container, contiene un conjunto de `JButton` y `JLabel`, y un `JComboBox`, los cuáles le dan funcionalidad al programa. El usuario al presionar cada `JButton` con forma de flecha, cambia los colores de cada banda dentro de la resistencia dibujada en pantalla mediante el uso de `JLabel` e imágenes.
+
+### Capturas de Pantalla
 
 ![Figura 1. Pantalla de Bienvenida](screen_1.png)
 
